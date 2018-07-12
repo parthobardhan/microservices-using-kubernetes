@@ -1,4 +1,4 @@
-microservices-using-kubernetes
+Microservices using kubernetes
 
 This tutorial explores pods, services, load-balancers, deployments and kube-dns.
 
